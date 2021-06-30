@@ -11,7 +11,13 @@ font-size:140px;
 font-family: cursive;
 letter-spacing:1px;
 text-shadow:4px 3px 3px grey;
+}
 
+.h2{
+color:#002E29;
+font-size:80px;
+letter-spacing:0px;
+text-shadow:2px 2px 2px grey;
 }
 
 
