@@ -105,9 +105,9 @@ text-shadow:2px 2px 2px grey;
 
 <br><br><br><br>
 <img src="<br><br><br><br>
-<img src="inbound7015447916349888594.jpg" width="100%" height="1000px">
+<img src= "inbound7015447916349888594.jpg" width="100%" height="1000px">
 <br><br>
-<font class="h2">আরো একজন নেতা😍 </font>
+<font class="h2">আরো একজন নেতা 😍 </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
 <hr size="+12" color=#861D32><br><br>
