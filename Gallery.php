@@ -85,9 +85,9 @@ text-shadow:2px 2px 2px grey;
 
 
 <br><br><br><br>
-<img src="" width="100%" height="1000px">
+<img src="inbound2327474137150552330.jpg" width="100%" height="1000px">
 <br><br>
-<font class="h2"> </font>
+<font class="h2"> খুব কাছের কিছু জুনিয়রদের সাথে!  </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
 <hr size="+12" color=#861D32><br><br>
