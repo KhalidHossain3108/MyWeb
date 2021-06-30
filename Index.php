@@ -121,22 +121,22 @@ Explore now!
 </p>
 <p class="a3">
 
-<a href="">
+<a href="Aboutme.php">
 <font color="191F1E"> About me </font>
 
 </a><br>
 
-<a href="">
+<a href="writings.php">
 <font color="191F1E"> My Writings </font>
 
 </a><br>
 
-<a href="">
+<a href="Gallery.php">
 <font color="191F1E"> Gallery </font>
 
 </a><br>
 
-<a href="">
+<a href="Myvision.php">
 <font color="191F1E"> My Vision </font>
 
 </a><br>
