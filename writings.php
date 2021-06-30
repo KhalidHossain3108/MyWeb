@@ -19,6 +19,9 @@
 
 <style type="text/css">
 
+a:link{
+ text-decoration:none;
+}
 .a1
 { 
 font-family: cursive;
@@ -54,7 +57,8 @@ text-shadow:1px 1px 1px grey;
 
 /* Style the collapsible content. Note: hidden by default */
 .content {
-  padding:18px;
+  
+
   display: none;
   overflow: hidden;
   background-color: #DCFEFB;
@@ -88,7 +92,7 @@ text-shadow:1px 1px 1px grey;
 </button>
 <div class="content">
   <p>
-<img src="inbound3685138015984383230.webp" weight="100%" height="600px"> <br>
+<img src="inbound3685138015984383230.webp" weight="100%" height="600px"> <br><br><br>
 আপনার মোবাইল ফোনটিতে 70% চার্জ দেখাচ্ছে।  সম্পূর্ণ চার্জ  হতে কত সময় নেবে?
 
 আমাদের ব্যবহার করা মোবাইল ফোনগুলোর ব্যাটারি চার্জ হতে কত সময় নেবে কিংবা কত পারসেন্ট চার্জ হতে কি সময় নেবে তা সহজ ক্যালকুলেশন করেই বের করা যায়। 
@@ -192,15 +196,15 @@ We all have our conscience. End of the day, we want the optimum betterment. If w
 “Any woman who understands the problems of running a home will be nearer to understanding the problems of running a country.”– Margaret Thatcher
 
 I will suggest you to visit those links. Constructive criticism will be appreciate. Thank you.   <br>
-
+<br><br>
 <a href="https://youtu.be/lgIgytWyo_A">
 TED talks
 </a>
-
+<br><br>
 <a href="https://www.google.com/amp/s/www.forbes.com/sites/kathycaprino/2017/03/08/what-is-feminism-and-why-do-so-many-women-and-men-hate-it/amp/">
 About feminism
 </a>
-
+<br><br>
 <a href="https://www.newscientist.com/article/mg23831740-400-the-origins-of-sexism-how-men-came-to-rule-12000-years-ago/">
 About history 
 
