@@ -54,7 +54,7 @@ text-shadow:1px 1px 1px grey;
 <font class="a1"> School life</font> <br><br>
 <hr size="+12" color="05007A"><br>
 
-<img src="" width="100%" height="700px"><br><br>
+<img src="inbound6662700351592334264.jpg" width="100%" height="700px"><br><br>
 
 <font class="a2"> I completed my school life from Atomic Energy Research Establishment School And College. I have passed almost 8 years of my life from here.   </font>
 <hr size="+12" color="05007A"><br><br>
