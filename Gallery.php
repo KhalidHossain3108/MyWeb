@@ -33,33 +33,70 @@ text-shadow:2px 2px 2px grey;
 <hr size="+12" color=#861D32><br><br><hr size="+12" color=#861D32><br><br>
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 <img src="inbound1029893832170313407.jpg" width="100%" height="1000px">
-<br>
-<font class="h2"> দেড় বছর বাসে একসাথে আসা যাওয়া যাদের সাথে!  </font>
+<br><br>
+<font class="h2"> দেড় বছর বাসে একসাথে আসা যাওয়া যাদের সাথে! 😍 </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
 <hr size="+12" color=#861D32><br><br>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 <img src="inbound4241089200592472852.jpg" width="100%" height="1000px">
-<br>
-<font class="h2"> Batch 20 Group 3. All are memories now! </font>
+<br><br>
+<font class="h2"> Batch 20 Group 3. All are memories now!🥰 </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
 <hr size="+12" color=#861D32><br><br>
 
+<br><br><br><br>
+<img src="inbound2454855306109934499.jpg" width="100%" height="1000px">
+<br><br>
+<font class="h2"> পারফেক্ট টাইমিং 😆 </font>
 <br><br><br><br><br><br>
+<hr size="+12" color=#861D32><br><br>
+<hr size="+12" color=#861D32><br><br>
+
+<br><br><br><br>
 <img src="" width="100%" height="1000px">
-<br>
+<br><br>
 <font class="h2"> </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
 <hr size="+12" color=#861D32><br><br>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 <img src="" width="100%" height="1000px">
-<br>
+<br><br>
+<font class="h2"> </font>
+<br><br><br><br><br><br>
+<hr size="+12" color=#861D32><br><br>
+<hr size="+12" color=#861D32><br><br>
+
+
+<br><br><br><br>
+<img src="" width="100%" height="1000px">
+<br><br>
+<font class="h2"> </font>
+<br><br><br><br><br><br>
+<hr size="+12" color=#861D32><br><br>
+<hr size="+12" color=#861D32><br><br>
+
+
+
+<br><br><br><br>
+<img src="" width="100%" height="1000px">
+<br><br>
+<font class="h2"> </font>
+<br><br><br><br><br><br>
+<hr size="+12" color=#861D32><br><br>
+<hr size="+12" color=#861D32><br><br>
+
+
+
+<br><br><br><br>
+<img src="" width="100%" height="1000px">
+<br><br>
 <font class="h2"> </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
