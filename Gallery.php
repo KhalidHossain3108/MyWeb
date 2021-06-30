@@ -36,9 +36,9 @@ text-shadow:4px 3px 3px grey;
 <hr size="+12" color=#861D32><br><br>
 
 <br><br><br><br><br><br>
-<img src="" width="100%" height="1000px">
+<img src="inbound4241089200592472852.jpg" width="100%" height="1000px">
 <br>
-<font class="h2"> </font>
+<font class="h2"> Batch 20 Group 3. All are memories now! </font>
 <br><br><br><br><br><br>
 <hr size="+12" color=#861D32><br><br>
 <hr size="+12" color=#861D32><br><br>
