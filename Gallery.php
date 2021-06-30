@@ -23,7 +23,7 @@ text-shadow:4px 3px 3px grey;
 <p class="h1">Gallery</p>
 </center>
 <hr size="+12" color=#861D32><br><br>
-<img src="" height="500" width="100%">
+<img src="inbound3649849921062937196.jpg" height="500" width="100%">
 <hr size="+12" color=#861D32><br><br><hr size="+12" color=#861D32><br><br>
 
 
