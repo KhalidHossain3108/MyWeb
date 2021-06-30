@@ -62,7 +62,7 @@ text-shadow:1px 1px 1px grey;
 <font class="a1"> College life</font> <br><br>
 <hr size="+12" color="05007A"><br>
 
-<img src="" width="100%" height="700px"><br><br>
+<img src="inbound7788914030825969735.jpg" width="100%" height="700px"><br><br>
 
 <font class="a2"> After passing successfully SSC examination i got the chance into Notre Dame College, Dhaka. It was the best time i passed in the whole life.   </font>
 <hr size="+12" color="05007A"><br><br>
