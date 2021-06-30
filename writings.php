@@ -165,6 +165,46 @@ text-shadow:1px 1px 1px grey;
 </button>
 <div class="content">
   <p>
+<br>
+“When we do the best we can, we never know what miracle is wrought in our life, or in the life of another.”– Helen Keller 
+
+Disclaimer [ i haven’t any intention of criticising strongly to any ideology or system. I am just going to mention my personal thinking.]
+
+We are now living in a time where inability word doesn’t exist or we do not let it exist. Any type of discrimination today are totally condemned and banned by our educated society. We have bundles of theory about mankind and they are really working so nice.
+ 
+Empowerment of women is one of the most significant thing in our world and we are observing the sacrifices and amount of sweat to establish the idea. We all know the importances of it and really feeling it in our real life. But the question is why this potential was unrevealed in the past centuries over centuries? The proportion between the male and female marked in the pages of history is quite a good number.If we look behind, we will find maximum civilization has the priority of men than women and the opposite case is truly rare. How we will explain it?
+
+Okay,  the very common explanation would like the lack practices of women.It was the system like this, if you think a war between the Ottoman and the Byzantine, you will not probably think about the women soilders.Reason would not be their physical fitness rather it would the matter of practices.Thinking of being a soilder you will find rare in women.
+
+But the thing what bring the changes is our thinking differently. Like we are now more dependent on our mental capabilities than physical. Our believes,  thoughts are changed, we are investing more on our practices and we are getting the result. They are strongly proving their latent ability. They are welcomed cordially to the fields of contribution.
+
+And finally we have our modern feminism. Feminist are working to establish the power of women, representing the victimhood. They are worthy of appreciation in this case.
+
+ But i think here some problem arise. Their motive is not the the equality, the superiority.
+The clashes occur when the equality revolution of empowering something turns to  disempowerment of the opposite.Why?
+
+Whole part of the educated society including men and women believe in women ability. But some WRONG ideas are playing against it. Its found to make them powerful in making decision, leading to angry and forceful behavior. Does it really go with our modern thinking? 
+
+We male and female should form our family with both of our sacrifices. And why we want domination? Why we thinking our reaching to equality by domination? We are many of us thinking the achievement of equality by this way? Why? Male are cordial for their improvement. But forcefulness can never achieve our ultimate goal, the PEACE.
+
+We all have our conscience. End of the day, we want the optimum betterment. If we think these way we can not say " its my freedom " while those freedom possibly harm others freedom. We want the betterment of everyone,  ever in mankind. Allah may help us to use our conscience. 
+
+“Any woman who understands the problems of running a home will be nearer to understanding the problems of running a country.”– Margaret Thatcher
+
+I will suggest you to visit those links. Constructive criticism will be appreciate. Thank you.   <br>
+
+<a href="https://youtu.be/lgIgytWyo_A">
+TED talks
+</a>
+
+<a href="https://www.google.com/amp/s/www.forbes.com/sites/kathycaprino/2017/03/08/what-is-feminism-and-why-do-so-many-women-and-men-hate-it/amp/">
+About feminism
+</a>
+
+<a href="https://www.newscientist.com/article/mg23831740-400-the-origins-of-sexism-how-men-came-to-rule-12000-years-ago/">
+About history 
+
+</a>
 
   </p>
 </div>
